@@ -8,6 +8,9 @@
 /.vs/
 /.vscode/
 
+/bin/
+/build/
+
 *.csproj
 *.unityproj
 *.sln
